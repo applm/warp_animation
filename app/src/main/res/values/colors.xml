@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+
+    <color name="green_premium">#7dbd17</color>
+
+    <!-- Warp animation-->
+    <color name="warp_color_white">@color/white</color>
+    <color name="warp_color_blue">#35DCFF</color>
+    <color name="warp_background">#2c4965</color>
+    <color name="warp_finished_circle_color">@color/green_premium</color>
+
+    <array name="warp_progress_colors">
+        <item>#E96666</item>
+        <item>#E99B66</item>
+        <item>#66E98E</item>
+    </array>
+
+    <array name="warp_center_gradient">
+        <item>#21324e</item>
+        <item>#21324e</item>
+        <item>#0021324e</item>
+    </array>
+
+    <array name="warp_zone_gradient">
+        <item>#bb2C4965</item>
+        <item>#aa2C4965</item>
+        <item>#002C4965</item>
+        <item>#50607AC3</item>
+        <item>#60607AC3</item>
+        <item>#00607AC3</item>
+    </array>
+</resources>
